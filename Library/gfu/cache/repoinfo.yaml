@@ -12,26 +12,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
+  lastUpdatedAtString: 2018-09-15T17:46:56.270-04:00
+  initializedAtString: 2018-09-15T17:46:56.270-04:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/jerrychen017/hophacks_2018fall.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: 
+    name: master
     tracking: 
   currentConfigBranch:
-    name: 
+    name: master
     remote:
       name: 
       url: 
     trackingBranch: 
   currentConfigRemote:
-    name: 
-    url: 
-  currentHead: 
+    name: origin
+    url: https://github.com/jerrychen017/hophacks_2018fall.git
+  currentHead: d9c7048
